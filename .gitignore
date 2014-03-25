@@ -1,0 +1,5 @@
+.vagrant
+.kitchen
+.kitchen.local.yml
+.ruby-version
+.project

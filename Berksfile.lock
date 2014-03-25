@@ -1,0 +1,13 @@
+{
+  "sources": {
+    "chef_scout_realtime": {
+      "path": "."
+    },
+    "minitest-handler": {
+      "locked_version": "1.1.4"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.5"
+    }
+  }
+}
